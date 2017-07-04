@@ -1,6 +1,10 @@
 
 # About
 
+All credits to Bageljp for the script. We had some strange issues regarding the sed command in our environment not working as intented so we switched it over. I am not a developer natively in this language so please step in with caution and read the code before using. 
+
+Please try the original script of Bageljp before attempting this.
+
 Zabbix Server Action to Slack.com
 
 ![Zabbix Server to Slack.com](https://raw.githubusercontent.com/bageljp/zabbix-slack/master/img/zabbix_chart.png "Zabbix Server to Slack.com")
@@ -91,6 +95,3 @@ ITEM_VALUE: {ITEM.VALUE1}
 EVENT_ID: {EVENT.ID}
 TRIGGER_URL: {TRIGGER.URL}
 ```
-
-### Credits
-All credits to Bageljp for the script. We had some strange issues regarding the sed command in our environment not working as intented so we switched it over. I am not a developer natively in this language so please step in with caution and read the code before using. 
