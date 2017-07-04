@@ -92,3 +92,5 @@ EVENT_ID: {EVENT.ID}
 TRIGGER_URL: {TRIGGER.URL}
 ```
 
+### Credits
+All credits to Bageljp for the script. We had some strange issues regarding the sed command in our environment not working as intented so we switched it over. I am not a developer natively in this language so please step in with caution and read the code before using. 
