@@ -2,7 +2,10 @@
 
 # config
 slack_url='https://hooks.slack.com/services/XXX/XXXX/XXXXX'
+
+#leave empty if you want the hooks configured username to display
 slack_username='Zabbix'
+
 channel="$1"
 title="$2"
 params="$3"
