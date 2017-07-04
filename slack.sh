@@ -6,7 +6,11 @@ slack_username='Zabbix'
 channel="$1"
 title="$2"
 params="$3"
+
+
+# leave empty if you want the hooks configured emoji / icon to display
 emoji=':ghost:'
+
 timeout="5"
 cmd_curl="/usr/bin/curl"
 cmd_wget="/usr/bin/wget"
