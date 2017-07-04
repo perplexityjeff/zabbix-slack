@@ -13,7 +13,7 @@ Zabbix Server Action to Slack.com
 
 ### Slack.com settings
 
-[Slak.com Incoming Webhooks](https://api.slack.com/incoming-webhooks)
+[Slack.com Incoming Webhooks](https://api.slack.com/incoming-webhooks)
 
 ### Script settings in Zabbix Server
 
